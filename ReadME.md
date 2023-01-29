@@ -4,7 +4,7 @@ This github repository reproduces the **"Central-tendency”** effect in tempora
 
 _Jazayeri et al._ published an interesting paper  (Temporal context calibrates interval timing) on it. Where they have choosen partially overlapped intervals.
 
-![Experiment](image/inference.png)
+![Experiment](images/inference.png)
 
 
 
